@@ -3,13 +3,14 @@
 local M = {}
 
 M.ui = {
-   theme = "onedark",
+   theme = "javacafe",
 
    -- theme toggle
    theme_toggler = false,
    fav_themes = {
       "onedark",
       "gruvchad",
+      "javacafe",
    },
    italic_comments = false,
 
